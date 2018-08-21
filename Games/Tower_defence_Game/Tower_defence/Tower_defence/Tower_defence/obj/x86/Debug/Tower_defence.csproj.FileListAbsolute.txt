@@ -1,0 +1,65 @@
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.exe
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.pdb
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.csprojResolveAssemblyReference.cache
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.exe
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.pdb
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\bkg.xnb
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\exit.xnb
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\title_sheet.xnb
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\title2.xnb
+F:\Spel projekt\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\bkg2.xnb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\bkg.xnb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\exit.xnb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\title2.xnb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\title_sheet.xnb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\bkg2.xnb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.exe
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.pdb
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.csprojResolveAssemblyReference.cache
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.exe
+F:\HÖGSKOLAN\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.pdb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.exe
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.pdb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.exe
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.pdb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Spline.dll
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.exe
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Tower_defence.pdb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Spline.dll
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.exe
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.pdb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\font.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\bkg2.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\Spritesheet.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\road.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\grass.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\help_bkg.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td.wma
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td_ingame.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td_ingame.wma
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\bkg2.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\Spritesheet.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\road.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\grass.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\help_bkg.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\font.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td_ingame.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td_ingame.wma
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\td.wma
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\go1_0.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\circle_0.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\diamond_0.xnb
+G:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\star_0.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\go1.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\fullscreen_bkg2.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\exp0.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\exp1.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Sounds\118-Fire02.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\bin\x86\Debug\Content\Textures\exp3.xnb
+F:\HÖGSKOLAN\Programmering\Tower_defence\Tower_defence\Tower_defence\obj\x86\Debug\Tower_defence.csprojResolveAssemblyReference.cache
