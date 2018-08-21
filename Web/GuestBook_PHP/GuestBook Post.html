@@ -1,0 +1,71 @@
+<html>
+<header>
+<h2>Robin's Guestbook </h2>
+</header>
+ <body>
+ <form method="POST" enctype="multipart/form-data" action="Guestbook.php"><br>
+ Name: <br><input type = "Text" name ="Name"><br>
+ Email: <br><input type = "Text" name ="Email"><br>
+ Website: <br><input type = "Text" name ="Website"><br>
+ Comment: <br><textarea rows="10" cols="20" name = "Comment"></textarea><br>
+ <br><input type = "submit" name = "Submit" value = "Post"><br>
+ <br>
+ </form>
+ 
+ <?php
+ 
+      //INSERT SQL CODE//
+ 
+      //Server-side variables
+      $servername = "localhost";
+      $username = "root";
+      $password = "root";
+      $database = "guestbook";
+      $table = "guests";
+ 
+ // Create connection
+ $conn = mysqli_connect($servername, $username, $password, $database, 8889);
+
+ // Check connection
+ if ($conn->connect_error) 
+ {
+    die("Connection failed: " . $conn->connect_error);
+ } 
+ 
+ //Get what the user typed in the HTML form (if name and comment is NOT empty)
+ if (!empty($_POST['Comment']) && !empty($_POST['Name']))
+ {
+   $postBtn = $_POST['Submit'];
+   $name = $_POST['Name'];
+   $email = $_POST['Email'];
+   $website = $_POST['Website'];
+   $comment = $_POST['Comment'];
+   
+   //Strip HTML tags
+   strip_tags ($name);
+   strip_tags ($email);
+   strip_tags ($website);
+   strip_tags ($comment);
+   
+   //Define query info
+   $query = "INSERT INTO $table (`DateTime`,`Name`, `Email`, `Website`, `Comment`) 
+   VALUES (CURRENT_TIMESTAMP(),? , ?, ?, ?)";
+
+   //Prepare query to protect against SQL injection
+   if ($stmt = $conn->prepare($query)) 
+   {
+   
+    //Bind and execute query
+	$stmt->bind_param("ssss", $name, $email, $website, $comment);
+    $stmt->execute();
+    $stmt->close();
+   
+    //Text to display when sent
+    echo "Post sent!" . "\n" . "\n";
+   }
+ }
+ 
+ ?>
+ 
+ </body>
+</html> 
