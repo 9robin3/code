@@ -10,7 +10,7 @@ public class GeneratePrefab : EditorWindow
 {
 
     string projectPath;
-    static string sourcePath;
+    static string sourcePath; 
     static string importPath;
     static string prefabPath;
     static bool createInstance;
@@ -65,6 +65,7 @@ public class GeneratePrefab : EditorWindow
     {
             //Create a reference to imported asset
             GameObject preF = (GameObject)AssetDatabase.LoadAssetAtPath(importPath, typeof(GameObject));
+            //GameObject.Instantiate(preF, new Vector3(0,0,0), Quaternion.identity);
             
             string prefNameWExt = AssetDatabase.GetAssetPath(preF);
             string[] prefNameArray = prefNameWExt.Split(char.Parse("."));
@@ -139,6 +140,11 @@ public class GeneratePrefab : EditorWindow
                     GameObject.DestroyImmediate(rootNode);
                 }
                 
+                //Print log message of the saved prefabs path
+                //Debug.Log("Prefab saved in:" + targetPath);
+
+                /////////////RESET UI;
+                //Incorrect prefab can be created after succeeding with one!!!!! FIX THIS!!!
             }
     }
 }
